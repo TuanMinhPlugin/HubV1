@@ -1,0 +1,10 @@
+name: Hub
+main: Hub\Main
+api: 3.0.0
+version: 1.0.0
+author: MnhTestTuan #Mnhtesttuan đẹp trai vcl
+
+commands:
+  hub:
+    description: Hub
+    aliases: [spawn, lobby, sanh]
